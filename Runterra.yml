@@ -1,0 +1,5 @@
+inputs: 
+  - name: azrepo
+
+run: 
+  path: azrepo/tform2.sh
