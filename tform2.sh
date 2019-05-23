@@ -1,3 +1,5 @@
+#!/user/bin/env bash
+
 set -e -u -x
 
 cd azrepo
